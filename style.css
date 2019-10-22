@@ -2,3 +2,8 @@ body {
     background-color: slategray;
     Color: rgb(113, 155, 113);
 }
+
+h1{
+    color: purple;
+    text-align: center;
+}
